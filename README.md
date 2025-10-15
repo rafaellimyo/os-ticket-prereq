@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src=https://camo.githubusercontent.com/63a9cbffe55374efb46b0f4d4b4ee833f655e8c1668b682573f7f3829a9042ee/68747470733a2f2f692e696d6775722e636f6d2f436c7a6a3758732e706e67/>
+  <img <img width="700" height="200" alt="Clzj7Xs" src="https://github.com/user-attachments/assets/8eb04ea8-bff8-4e89-bd45-c6c00f996d53" />
+/>
 </h1>
 
 # osTicket - Prerequisites and Installation
