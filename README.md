@@ -1,6 +1,6 @@
 <h1 align="center">
   <img <img width="700" height="200" alt="Clzj7Xs" src="https://github.com/user-attachments/assets/8eb04ea8-bff8-4e89-bd45-c6c00f996d53" />
-/>
+
 </h1>
 
 # osTicket - Prerequisites and Installation
